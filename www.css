@@ -1,0 +1,190 @@
+@media(min-width:690px) and (max-width:880px){
+   #log{
+width: 40px;
+height: 30px;
+   }
+    #rr{
+        flex: auto;
+        display:flex;
+        justify-content: center;
+border: none;
+        padding: 0px;
+font-size: 11px;
+        position: relative;
+    position: fixed;
+        margin: 0px 0px 0px 108px ;
+    padding: 0px 0px 0px ;
+    border: 2px aliceblue solid;
+    background-color: white;
+    }
+    #heading{
+        margin-left: 40px;
+        margin-right: 0px;
+        font-size: 40px;
+    }
+    .box{
+        border: 6px solid white;
+    margin: 0px 30px 30px 30px;
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+    color: brown;
+    border-radius: 15px;
+    background-color: white;
+    
+    }
+.homeimg{
+    width: 700px;
+margin-left: 0px;
+}
+.text2{
+    margin-top: 15px;
+}
+.text3{
+    margin-top:15px ;
+}
+.jip{
+    margin-left: 98px;
+    width: 560px;
+}
+.text4{
+width: 520px;
+
+}
+.tag1 {
+    margin-left: 0px;
+    font-size: 6px;
+    margin-right: 0px;
+    padding-right: 20px;
+}
+.tag{
+    font-size: 6px;
+    margin-left: px;
+    margin-right: 90px;
+}
+
+.tag2{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.text5{
+    width: 520px;
+}
+.tag3{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.tag4{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.tag5{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.text6{
+    width: 520px;
+}
+.tag6{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;}
+
+.tag7{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.tag8{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.text7{
+    width: 520px;
+}
+.tag9{    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.text8{
+    width: 160px;
+    margin-left: 122px;
+}
+.tag10{
+    font-size: 6px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+.support img{
+    width: 700px;
+}
+.txt{
+    top: 170px;
+left:200px ;
+font-size: 35px;
+color:#333;
+font-weight: 900;
+letter-spacing:3px;
+
+}
+.txt1{
+    top: 205px;
+     left: 248px ;
+                        
+}
+.txt2{
+    top: 240px;
+    left: 200px ;
+ 
+}
+.txt3{
+    top: 274px;
+    left: 215px ;}
+.txt5{
+    top: 289px;
+    left: 215px ;
+ 
+}
+.txt6{top: 560px;
+    left: 285px;
+    }
+.txt7{
+    top: 630px;
+    left: 268px;}
+   .con{
+    top: 670px;
+    display: flexbox;
+    left: 12;
+    padding-right: 2px;
+padding-left:1px ;
+border-radius:8px;
+border: 2px white solid;
+justify-content: space-evenly;
+}
+.tt{
+    width: 20px;
+    height: 20px;
+    margin-left: 0px;
+    margin-right:0px ;
+}
+.tc{
+    width:20px ;
+    height: 20px;
+}
+.tz{
+    width: 20px;
+height: 20px;
+}
+}
+    
