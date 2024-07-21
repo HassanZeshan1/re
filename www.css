@@ -156,12 +156,10 @@ letter-spacing:3px;
     left: 215px ;
  
 }
-.txt6{top: 560px;
-    left: 285px;
+.txt6{display:none;
     }
 .txt7{
-    top: 630px;
-    left: 268px;}
+    display:none;}
    .con{
     top: 670px;
     display: flexbox;
